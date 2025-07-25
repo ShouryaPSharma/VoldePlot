@@ -6,8 +6,8 @@ VoldePlot is a lightweight Shiny web application for dynamic visualization of ge
 ## Repository Contents
 
 - `voldeplot.R` — Main Shiny app file
-- `www/` — Weblink for VoldePlot
-- `v_data.csv` — Sample input data for testing
+- `https://voldeplot.shinyapps.io/VoldePlot/` — Weblink for VoldePlot
+- `vdata.csv` — Sample input data for testing
 - `README.md` — Project overview and usage instructions
 - `.gitignore` — Ignores unnecessary local R files
 
