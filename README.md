@@ -29,13 +29,6 @@ The app expects a **CSV file** with the following **pre-processed columns**:
 A sample CSV file `v_data.csv` has been provided in the repository.
  ---
 
- ### 🖼️ App Preview
-
-![VoldePlot Screenshot](www/Voldeplot screenshot.png)
-
-
----
-
  ## How to Use the App
 
 1. **Launch the app**
