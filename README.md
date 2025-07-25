@@ -31,8 +31,8 @@ A sample CSV file `v_data.csv` has been provided in the repository.
 
  ### 🖼️ App Preview
 
-![VoldePlot Screenshot](<img width="1120" height="925" alt="image" src="https://github.com/user-attachments/assets/9d62353e-f7f7-4665-87ae-8f8e1dce9918" />
-)
+![VoldePlot Screenshot](www/Voldeplot screenshot.png)
+
 
 ---
 
