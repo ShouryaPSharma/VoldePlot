@@ -2,6 +2,8 @@
 "There is no good and evil, there is only power, and those too weak to seek it."- Lord Voldemort... well if the issue is 'seeing' volcano plots with gene expression data, look no further than VoldePlot.
 VoldePlot is a lightweight Shiny web application for dynamic visualization of gene expression data. It allows users to explore volcano plots, find relevant genetic expression and filter genes of interest - all within an interactive and user-friendly interface.
 
+ Try it out here:[VoldePlot Web App](https://voldeplot.shinyapps.io/VoldePlot/)
+
 
 ## Repository Contents
 
@@ -9,7 +11,6 @@ VoldePlot is a lightweight Shiny web application for dynamic visualization of ge
 - `https://voldeplot.shinyapps.io/VoldePlot/` — Weblink for VoldePlot
 - `vdata.csv` — Sample input data for testing
 - `README.md` — Project overview and usage instructions
-- `.gitignore` — Ignores unnecessary local R files
 
 
 ---
