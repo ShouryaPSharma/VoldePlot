@@ -34,7 +34,7 @@ A sample CSV file `v_data.csv` has been provided in the repository.
 
 1. **Launch the app**
    
-   - Open URL : https://voldeplot.shinyapps.io/VoldePlot/
+   - Open URL : https://voldeplot.shinyapps.io/VoldePlot/  **OR**
    - Open `VoldePlot.R` in RStudio
    - Click the "Run App" button in the top-right corner, or run:
      ```r
