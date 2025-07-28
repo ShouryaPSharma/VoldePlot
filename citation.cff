@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: “VoldePlot: A Lightweight Shiny Web Application for Visualizing Gene Expression through Volcano Plots”
+
+author:
+  - 
+    given-names: Shourya Prasad Sharma
+    affiliation: "Indian Institute of Science Education & Research Bhopal"
+    orcid: "https://orcid.org/0009-0006-2518-0695"
+
+date-released: 25-07-2025
+version: "1.0.0"
+doi: 
+license:
+repository: "https://github.com/ShouryaPSharma/VoldePlot/"
+url: "https://voldeplot.shinyapps.io/VoldePlot/"
+
+keywords:
+ -R
+-Shiny
+-Bioinformatics
+-Data Visualization
+-Volcano plots
+-Gene Expression
+
+type: software
